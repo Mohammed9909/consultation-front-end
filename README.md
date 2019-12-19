@@ -31,14 +31,13 @@ As a User
 
 
 ## Entity Relationship Diagram
-![ERD](ERD(1).png)
+![ERD](ERD.png)
 ## Wireframe
 ![Home page](homePage.png)
 ![Lawerpage](Lawerpage.png)
 ![Ligal](Ligal.png)
 ![Question page](Questionpage.png)
-## Future Development
-* add Role for User
+
 
 ## Team Members
 * Mohammed Alofaysan
