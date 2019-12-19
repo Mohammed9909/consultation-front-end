@@ -36,7 +36,6 @@ As a User
 ![Home page](homePage.png)
 ![Lawerpage](Lawerpage.png)
 ![Ligal](Ligal.png)
-![Edit Product](editProduct.png)
 ![Question page](Questionpage.png)
 ## Future Development
 * add Role for User
