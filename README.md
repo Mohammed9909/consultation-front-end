@@ -4,7 +4,6 @@
 - [User Story](#user-story)
 - [Entity Relationship Diagram](#entity-relationship-diagram)
 - [Wireframe](#wireframe)
-- [Future Development](#future-development)
 - [Team Members](#team-members)
 ## User Story 
 As an Admin:
